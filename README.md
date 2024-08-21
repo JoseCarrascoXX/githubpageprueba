@@ -1,2 +1,0 @@
-# githubpageprueba
-git hub page
